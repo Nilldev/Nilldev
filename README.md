@@ -16,7 +16,7 @@
   <img alingn="center" alt="NIll_vscode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   <div> 
-  <a href="https://www.facebook.com/nego.n.brasil" target="_blank"><img src="https://img.shields.io/badge/Facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:evanildosj35gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nill-souza-079a8a211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="https://www.facebook.com/nego.n.brasil" target="_blank"><img src="https://img.shields.io/badge/Facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a align="center"href = "mailto:evanildosj35gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/nill-souza-079a8a211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
