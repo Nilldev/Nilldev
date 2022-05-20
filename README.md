@@ -1,6 +1,6 @@
 
 ### 👋 Olá!! Eu sou o Nill Souza.
- <div align="center">
+ <div >
   <a href="https://www.linkedin.com/in/nill-souza-079a8a211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiZjTIBT4SwOLAc%2FNHR53Hw%3D%3D">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilldev&layout=compact&langs_count=7&theme=dracula"/>
